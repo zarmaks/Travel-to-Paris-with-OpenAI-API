@@ -6,5 +6,7 @@ In this project, you will utilize OpenAI's language processing capabilities to a
 Create a model variable to use OpenAI's 'gpt-3.5-turbo' model, to find answers to the following questions:
 
 1.How far away is the Louvre from the Eiffel Tower (in miles) if you are driving?
+
 2.Where is the Arc de Triomphe?
+
 3.What are the must-see artworks at the Louvre Museum?
